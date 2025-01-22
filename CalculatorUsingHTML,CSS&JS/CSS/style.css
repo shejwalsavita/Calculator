@@ -15,11 +15,16 @@ body{
    background-image:url(../images/th.jpeg);
    background-size: cover;
 }
-
-h1{
-    margin-bottom:650px;
-    margin-left:400px;
+.title h1{
+   margin-bottom:400px; 
+   margin-left:20px;
+   margin-right:5rem; 
+   color:black;
+} 
+h1,span{
+    color:#f67c14;
 }
+
 .calculator{
    padding: 20px;
    border:2px solid black;
